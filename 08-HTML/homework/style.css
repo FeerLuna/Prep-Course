@@ -1,0 +1,28 @@
+h1 {
+    color: cornflowerblue;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color:aqua;
+    padding: 50px;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    border-left-width: 10px;
+    border-top-color: cornflowerblue;
+    border-right-color: cornflowerblue;
+    border-bottom-color: cornflowerblue;
+    border-left-color: cornflowerblue;
+    border-top-style: dashed;
+    border-right: dashed;
+    border-bottom: dashed;
+    border-left: dashed;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
