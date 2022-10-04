@@ -1,9 +1,11 @@
 h1 {
     color: cornflowerblue;
 }
+
 img {
     width: 400px;
-}
+ }
+
 #thirdDiv {
     height: 600px;
     width: 500px;
@@ -22,6 +24,7 @@ img {
     border-bottom: dashed;
     border-left: dashed;
 }
+
 #spanId {
     font-size: 18px;
     margin: 50px;
